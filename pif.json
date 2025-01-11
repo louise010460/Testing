@@ -1,0 +1,20 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "2312DRA50G",
+  "FINGERPRINT": "Redmi/garnet_global/garnet:14/UKQ1.231003.002/V816.0.17.0.UNRMIXM:user/release-keys",
+  "BRAND": "Redmi",
+  "PRODUCT": "garnet_global",
+  "DEVICE": "garnet",
+  "RELEASE": "15",
+  "ID": "AP4A.241205.013.C1",
+  "INCREMENTAL": "1736513346",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys",
+  "SECURITY_PATCH": "2024-12-05",
+  "FIRST_API_LEVEL": "31"
+  "spoofProvider": true,
+  "spoofProps": true,
+  "spoofSignature": false,
+  "DEBUG": false
+}
+m
